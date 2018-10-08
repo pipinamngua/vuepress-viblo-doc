@@ -1,0 +1,27 @@
+{
+    "name": "vuepress-viblo-documentation",
+    "version": "1.0.0",
+    "description": "A sample project to let you see what makes VuePress so great! ",
+    "main": "index.js",
+    "scripts": {
+        "dev": "vuepress dev docs",
+        "build": "vuepress build docs",
+        "start": "npm run build"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/pipinamngua/vuepress-viblo-documentation.git"
+    },
+    "keywords": [
+        "vuejs",
+        "vuepress",
+        "documentation",
+        "static-site-gen"
+    ],
+    "author": "Nguyen Hoang <quynh4589@gmail.com>",
+    "license": "MIT",
+    "homepage": "https://github.com/pipinamngua/vuepress-viblo-documentation#readme",
+    "dependencies": {
+        "vuepress": "^0.14.4"
+    }
+}
